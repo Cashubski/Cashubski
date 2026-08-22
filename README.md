@@ -15,4 +15,4 @@ Medical imaging · uncertainty quantification · LLM-powered products · quantit
 
 ## Reach me
 
-[LinkedIn](https://www.linkedin.com/in/michal-kaszubski) · [AI Zuzi](https://www.socials.aizuzi.com) · London
+[LinkedIn](https://www.linkedin.com/in/m1k) · [AI Zuzi](https://www.socials.aizuzi.com) · London

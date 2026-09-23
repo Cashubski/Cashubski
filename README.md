@@ -4,7 +4,7 @@ AI/ML engineer and founder, London. MSc AI and Medical Imaging at UCL, BSc Compu
 
 I investigate how models fail, build production AI systems and create products that people actually use.
 
-**[kaszub.ski](https://kaszub.ski)** · [LinkedIn](https://www.linkedin.com/in/m1k) · [CV (PDF)](https://kaszub.ski/Michal-Kaszubski-CV.pdf)
+**[kaszub.ski](https://kaszub.ski)** · [LinkedIn](https://www.linkedin.com/in/m1k) · [CV](https://kaszub.ski/cv)
 
 ## Selected work
 
@@ -28,4 +28,4 @@ Python, PyTorch, scikit-learn, pandas, NumPy, NiBabel · Django, PostgreSQL, Typ
 
 ## Contact
 
-The best route is [LinkedIn](https://www.linkedin.com/in/m1k), or the email on my [CV](https://kaszub.ski/Michal-Kaszubski-CV.pdf).
+Message me on [LinkedIn](https://www.linkedin.com/in/m1k). CV and references are available on request.

@@ -23,7 +23,7 @@ Fixes merged into quantitative-finance libraries, each found by testing the libr
 
 | Library | Merged | What |
 |---|---|---|
-| [FinancePy](https://github.com/domokane/FinancePy) | 6 | American option pricer at zero dividend, date-schedule generation, forward-start option, Monte Carlo wrappers, variance-swap fair strike, FX error paths |
+| [FinancePy](https://github.com/domokane/FinancePy) | 9 | American option pricer at zero dividend, date-schedule generation, forward-start option, Monte Carlo wrappers, equity and FX variance swaps, FX double digital and rainbow options, FX error paths |
 | [vectorbt](https://github.com/polakowo/vectorbt) | 2 | Deflated Sharpe ratio (kurtosis convention and missing data), Numba/Rust engine parity |
 | [skfolio](https://github.com/skfolio/skfolio) | under review | Parametric portfolio policies (Brandt, Santa-Clara and Valkanov 2009), online Schur allocation, rolling-window factor exposures |
 | [Riskfolio-Lib](https://github.com/dcajasn/Riskfolio-Lib) | under review | Risk-contribution finite differences for solver-based measures |

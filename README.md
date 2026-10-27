@@ -13,7 +13,7 @@ I investigate how models fail, build production AI systems and create products t
 | [MIQA](https://kaszub.ski/work/miqa) · [code](https://github.com/Cashubski/miqa-prostate-dwi) | MSc thesis: automated detection of geometric distortion in prostate diffusion-weighted MRI, and whether a model can tell when its own judgement is unreliable. PyTorch, patient-level cross-validation, deep ensembles, selective prediction. | 1,027 acquisitions from 627 patients; three-seed DenseNet-121 ensemble at mean AUROC 0.82 across five folds; a heterogeneous ensemble that recovers usable uncertainty, distilled to one model at a ninth of the inference cost. |
 | [AI Zuzi](https://kaszub.ski/work/aizuzi) | AI social-media management and content platform, engineered for a client through NeuralTake. Django, React, PostgreSQL; seven third-party publishing integrations, payments, MFA. | About 50 business users. Security audit, encryption at rest, GDPR-aligned deletion and a zero-data-loss live migration from SQLite to PostgreSQL. |
 | [NeuralKite](https://kaszub.ski/work/neuralkite) · [live](https://neuralkite.com) | Acquisition-target intelligence for fragmented UK private markets. Next.js, TypeScript, Prisma, PostgreSQL, Claude agents. | An email discovery and verification engine that grades every address into a risk tier with a written rationale, streamed live over SSE. |
-| [ChefBot](https://kaszub.ski/work/chefbot) | A cooking assistant built on GPT: photo of the fridge to recipe, dietary adaptation and a PDF guide, as one multi-step tool flow. | 25,000+ conversations and a 4.7 rating from 100+ ratings on the GPT store. |
+| [ChefBot](https://kaszub.ski/work/chefbot) | A cooking assistant for ChatGPT, a [plugin](https://chefbot.neuraltake.com) (formerly a GPT): photo of the fridge to recipe, 18 skills and 7 tested scripts for scaling, shopping lists, schedules, nutrition and baking formulas. | 25,000+ conversations and a 4.7 rating from 100+ ratings as a GPT. |
 
 Closed: an entry in the [RSNA Knee Abnormality Detection](https://kaszub.ski/work/rsna-kaggle) challenge on Kaggle (1,849th of 6,425; the post-mortem is on the page). Experiments in generative media and audience analytics are under [kaszub.ski/experiments](https://kaszub.ski/experiments).
 
@@ -39,5 +39,6 @@ Python, PyTorch, scikit-learn, pandas, NumPy, NiBabel · Django, PostgreSQL, Typ
 ## Contact
 
 Message me on [LinkedIn](https://www.linkedin.com/in/m1k). CV and references are available on request.
+
 
 

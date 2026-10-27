@@ -15,7 +15,7 @@ I investigate how models fail, build production AI systems and create products t
 | [NeuralKite](https://kaszub.ski/work/neuralkite) · [live](https://neuralkite.com) | Acquisition-target intelligence for fragmented UK private markets. Next.js, TypeScript, Prisma, PostgreSQL, Claude agents. | An email discovery and verification engine that grades every address into a risk tier with a written rationale, streamed live over SSE. |
 | [ChefBot](https://kaszub.ski/work/chefbot) | A cooking assistant built on GPT: photo of the fridge to recipe, dietary adaptation and a PDF guide, as one multi-step tool flow. | 25,000+ conversations and a 4.7 rating from 100+ ratings on the GPT store. |
 
-Ongoing: an entry in the [RSNA Knee Abnormality Detection](https://kaszub.ski/work/rsna-kaggle) challenge on Kaggle. Experiments in generative media and audience analytics are under [kaszub.ski/experiments](https://kaszub.ski/experiments).
+Closed: an entry in the [RSNA Knee Abnormality Detection](https://kaszub.ski/work/rsna-kaggle) challenge on Kaggle (1,849th of 6,425; the post-mortem is on the page). Experiments in generative media and audience analytics are under [kaszub.ski/experiments](https://kaszub.ski/experiments).
 
 ## Open source
 
@@ -39,4 +39,5 @@ Python, PyTorch, scikit-learn, pandas, NumPy, NiBabel · Django, PostgreSQL, Typ
 ## Contact
 
 Message me on [LinkedIn](https://www.linkedin.com/in/m1k). CV and references are available on request.
+
 

@@ -23,7 +23,7 @@ Fixes merged into quantitative-finance libraries, each found by testing the libr
 
 | Library | Merged | What |
 |---|---|---|
-| [FinancePy](https://github.com/domokane/FinancePy) | 18 | Heston long-maturity quadrature, CDS index option forward PV01, US Treasury yield convention, CDS premium leg and index spread adjustment, FRA sign, floating-rate note pricing, SABR volatility formula, swaption vol surface, American option pricer at zero dividend, date-schedule generation, forward-start option, Monte Carlo wrappers, equity and FX variance swaps, FX double digital and rainbow options, FX error paths |
+| [FinancePy](https://github.com/domokane/FinancePy) | 21 | Heston long-maturity quadrature, CDS index option forward PV01, CDS basket survival curve, FX double one-touch barriers, perpetual bond curve pricing, US Treasury yield convention, CDS premium leg and index spread adjustment, FRA sign, floating-rate note pricing, SABR volatility formula, swaption vol surface, American option pricer at zero dividend, date-schedule generation, forward-start option, Monte Carlo wrappers, equity and FX variance swaps, FX double digital and rainbow options, FX error paths |
 | [vectorbt](https://github.com/polakowo/vectorbt) | 2 | Deflated Sharpe ratio (kurtosis convention and missing data), Numba/Rust engine parity |
 | [skfolio](https://github.com/skfolio/skfolio) | 4 (+2 in review) | Online Schur allocation (credited in source); regime-adjusted covariance bias fix; information criteria for fixed-parameter marginals; walk-forward calendar offsets; Student-t copula CDF finding fixed upstream by the maintainer; parametric portfolio policies (Brandt, Santa-Clara and Valkanov 2009) and rolling-window factor exposures in review |
 
